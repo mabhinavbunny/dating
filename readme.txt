@@ -1,17 +1,14 @@
-Developed pharmacy management system to manage inventry and manage sales of the store. A store can have multiple branchs and each sotre 
-has stock independent to the store. Store admin can manage the stock and users. Store management and stock management is role based. Admin 
-also can view the sales in graph.
+Developed Datting app which mactches users with other users using the app with respect to their sexual prefernces and distances. The app displaies the users with respect to distance between them.
 
-Microservice architechture is used to design back end. Spring security is used to manage security. Microservices are developed using 
-Spring boot. Mysql database is used as a database. FrontEnd is developed using react.
+PHP is used to develop backend. MYSQL is used as backend for front end  Javascript and Jquery is used .
 
 Process to setup the project:
 *, Clone the git project.
-*, Use Spring Tool Sute to manage microservices.
+*, Use Visual studio or any other editor to view the PHP code.
 *, Configure database in applications.properties.
-*, Use visual studio or any other editor to view the react code (Front end).
-*, Run both react and all micro services.
+*, Use visual studio or any other editor to view the Javascript and HTML code (Front end).
+*, Run both front end and backend services.
 
 
 
-Technologies used : Springboot,Java,Javascipt,React and Mysql.
+Technologies used :PHP,Javascript,Jquery and Mysql.
